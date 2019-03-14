@@ -7,4 +7,8 @@
   ![](https://github.com/chaoliuzihan/Huawei-CodeCraft2018/raw/master/image/1-1.png)
 
 # 总体方案
+## 预测过程
+二次指数平滑
 
+## 分配过程
+模拟退火算法
