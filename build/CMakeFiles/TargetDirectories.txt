@@ -1,0 +1,3 @@
+/home/xipuhu/huawei/jf/ecs/build/CMakeFiles/edit_cache.dir
+/home/xipuhu/huawei/jf/ecs/build/CMakeFiles/rebuild_cache.dir
+/home/xipuhu/huawei/jf/ecs/build/CMakeFiles/ecs.dir
